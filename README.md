@@ -1,2 +1,2 @@
 # DSA
-Easy questions to be precises on pyhton 
+Easy questions to be precises on pyhton in leetcode
